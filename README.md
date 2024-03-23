@@ -2,9 +2,5 @@
 
 ## Introduction
 - 👋 Hi, I’m @CSteinhardt153
-- 👀 This is my main Git for my PhD thesis work
+- This is my main Git for my PhD thesis work. For any respositories of interest feel fre to contact me directly for access.
 
-<!---
-CSteinhardt153/CSteinhardt153 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
